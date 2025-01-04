@@ -1,0 +1,17 @@
+[
+    {
+        "Product_name": "potato",
+        "Product_descrip": "vegetable",
+        "Product_amount": 100
+    },
+    {
+        "Product_name": "banana",
+        "Product_descrip": "fruit",
+        "Product_amount": 80
+    },
+    {
+        "Product_name": "laptop",
+        "Product_descrip": "electronics",
+        "Product_amount": 1000000
+    }
+]
